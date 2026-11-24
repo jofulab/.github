@@ -9,5 +9,5 @@
 
 ## Projects
 
-- **[VersionRAG](https://github.com/jofulab/versionrag)**: version-aware retrieval-augmented generation for evolving, versioned documents.
+- **[VersionRAG](https://github.com/jofulab/versionrag)**: version-aware retrieval-augmented generation for evolving, versioned documents (Findings of EACL 2027).
 - **[SM3-Text-to-Query](https://github.com/jofulab/SM3-Text-to-Query)**: a synthetic multi-model medical benchmark for translating questions into SQL, MongoDB, Cypher and SPARQL queries (NeurIPS 2024).
