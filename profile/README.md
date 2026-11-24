@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center">Research at the intersection of data and AI</p>
+<p align="center">A joyful lab at the intersection of data and AI</p>
 
 ## Projects
 
